@@ -1,4 +1,4 @@
-// src/hooks/useToast.js
+
 import { useState, useCallback } from 'react';
 
 let toastId = 0;

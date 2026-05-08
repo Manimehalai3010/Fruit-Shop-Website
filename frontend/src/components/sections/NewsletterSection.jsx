@@ -1,4 +1,4 @@
-// src/components/sections/NewsletterSection.jsx
+
 import React, { useState } from 'react';
 import { Mail, ArrowRight } from 'lucide-react';
 

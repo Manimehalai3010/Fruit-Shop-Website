@@ -1,4 +1,4 @@
-// src/data/products.js
+
 
 export const categories = [
   { id: "all", label: "All Fruits", emoji: "🍽️" },

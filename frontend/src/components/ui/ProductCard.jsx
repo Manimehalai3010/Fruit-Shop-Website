@@ -1,4 +1,4 @@
-// src/components/ui/ProductCard.jsx
+
 import React from 'react';
 import { Heart, ShoppingCart, Star, MapPin } from 'lucide-react';
 import { Link } from 'react-router-dom';

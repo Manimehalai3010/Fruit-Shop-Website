@@ -1,4 +1,4 @@
-// src/components/ui/StarRating.jsx
+
 import React from 'react';
 import { Star } from 'lucide-react';
 

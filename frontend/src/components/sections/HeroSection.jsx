@@ -1,4 +1,4 @@
-// src/components/sections/HeroSection.jsx
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, ShieldCheck, Truck, Leaf } from 'lucide-react';

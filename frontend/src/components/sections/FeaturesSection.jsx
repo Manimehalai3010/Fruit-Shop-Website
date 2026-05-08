@@ -1,4 +1,4 @@
-// src/components/sections/FeaturesSection.jsx
+
 import React from 'react';
 import { deliveryFeatures } from '../../data/products';
 

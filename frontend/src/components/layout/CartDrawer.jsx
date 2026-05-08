@@ -1,4 +1,4 @@
-// src/components/layout/CartDrawer.jsx
+
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { X, Minus, Plus, ShoppingBag, Trash2 } from 'lucide-react';

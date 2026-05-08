@@ -1,4 +1,4 @@
-// src/pages/ProductPage.jsx
+
 import React, { useState } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import { ArrowLeft, Heart, ShoppingCart, Minus, Plus, MapPin, Star, Tag } from 'lucide-react';

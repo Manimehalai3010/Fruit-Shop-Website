@@ -1,4 +1,4 @@
-// src/components/sections/TestimonialsSection.jsx
+
 import React from 'react';
 import { testimonials } from '../../data/products';
 import StarRating from '../ui/StarRating';

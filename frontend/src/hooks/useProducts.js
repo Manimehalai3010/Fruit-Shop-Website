@@ -1,4 +1,4 @@
-// src/hooks/useProducts.js
+
 import { useState, useMemo } from 'react';
 import { products } from '../data/products';
 
